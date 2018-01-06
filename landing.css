@@ -1,0 +1,29 @@
+body{
+  background-color: #72bf3f;
+}
+.jumbotron {
+  background-color: #72bf3f;
+}
+
+.orange {
+  background-color: #e68517;
+}
+
+.container {
+  background-color: white;
+  border: solid white 10px;
+  border-radius: 12px;
+}
+
+nav *{
+  background-color: #58962f;
+  color: white !important;
+}
+
+.cat {
+  border-radius: 30px;
+}
+
+.social {
+  color:white;
+}
